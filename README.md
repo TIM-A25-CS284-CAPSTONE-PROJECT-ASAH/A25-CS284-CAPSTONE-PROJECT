@@ -8,18 +8,9 @@
 
 ## 📊 Customer Segmentation & Business Insights Dashboard
 
-Dashboard ini menampilkan analisis lengkap terkait perilaku pelanggan, performa penjualan, serta strategi bisnis yang dapat diterapkan berdasarkan hasil clustering, analisis RFM, dan rekomendasi produk menggunakan algoritma Apriori.
-
-Tujuan utama proyek ini adalah membantu bisnis memahami siapa pelanggan mereka, bagaimana mereka berbelanja, dan strategi apa yang paling efektif untuk meningkatkan penjualan dan loyalitas.
+Dashboard ini menampilkan analisis lengkap terkait perilaku pelanggan, performa penjualan, serta strategi bisnis yang dapat diterapkan berdasarkan hasil clustering, analisis RFM, dan rekomendasi produk menggunakan algoritma Apriori. Tujuan utama proyek ini adalah membantu bisnis memahami siapa pelanggan mereka, bagaimana mereka berbelanja, dan strategi apa yang paling efektif untuk meningkatkan penjualan dan loyalitas.
 
 ## Deployment Dashboard
-
-# 📊 Customer Segmentation & Business Intelligence Dashboard
-
-Proyek ini menganalisis perilaku pelanggan menggunakan **RFM Analysis**, **KMeans Clustering**, dan **Apriori Association Rules**. Semua insight divisualisasikan ke dalam **4 dashboard utama** yang memberikan gambaran lengkap mengenai performa bisnis dan perilaku pelanggan.
-
----
-
 # 📘 1. Dashboard: Elbow Method & Dataset Overview
 
 Dashboard pertama memberikan gambaran umum dataset dan proses penentuan jumlah cluster optimal.
