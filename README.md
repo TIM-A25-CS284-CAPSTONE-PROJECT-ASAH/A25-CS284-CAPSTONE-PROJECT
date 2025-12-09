@@ -38,7 +38,7 @@ Dashboard ini memastikan segmentasi berbasis data akurat sebelum masuk ke analis
 
 Dashboard kedua fokus pada karakterisasi setiap cluster menggunakan RFM (Recency, Frequency, Monetary).
 
-<img width="992" height="742" alt="Screenshot 2025-12-05 213200" src="https://github.com/user-attachments/assets/44b702cf-1ea6-4316-a090-c3af0b89f165" />
+<img width="995" height="745" alt="image" src="https://github.com/user-attachments/assets/3a004a3a-7043-4aa0-a1ff-ee7adeebc83c" />
 
 
 ### 🔹 Karakteristik 4 Cluster
@@ -69,7 +69,7 @@ Dashboard ini memetakan prioritas pelanggan dan potensi bisnis.
 
 Dashboard ketiga memberikan insight mendalam terkait kualitas pelanggan.
 
-<img width="988" height="738" alt="Screenshot 2025-12-05 213313" src="https://github.com/user-attachments/assets/9945c1e8-8c7c-4acc-b3c9-1ac6a6580bd8" />
+<img width="993" height="740" alt="image" src="https://github.com/user-attachments/assets/c8b69d9f-5a86-46b3-a9e5-5b2930aa60e4" />
 
 
 ### 🔹 Rata-Rata Nilai RFM per Cluster
