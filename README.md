@@ -44,10 +44,10 @@ Dashboard kedua fokus pada karakterisasi setiap cluster menggunakan RFM (Recency
 ### 🔹 Karakteristik 4 Cluster
 | Cluster | Karakter Utama | Recency | Frequency | Monetary |
 |--------|------------------|---------|-----------|----------|
-| **0 – Active Low Spender** | Aktif, namun nilai belanja rendah | Aktif | Rendah | Rendah |
-| **1 – High-Frequency Mid Spender** | Sering belanja, nilai sedang | Aktif | Tinggi | Menengah |
-| **2 – Dormant Low Buyer** | Jarang belanja, nilai kecil | Tidak aktif | Rendah | Rendah |
-| **3 – Premium High-Value Buyer** | Pembeli VIP dengan nilai tinggi | Aktif | Tinggi | Sangat tinggi |
+| **0 – Pelanggan Hemat Aktif** | Aktif, namun nilai belanja rendah | Aktif | Rendah | Rendah |
+| **1 – Pelanggan Loyal** | Sering belanja, nilai sedang | Aktif | Tinggi | Menengah |
+| **2 – Pelanggan Pasif** | Jarang belanja, nilai kecil | Tidak aktif | Rendah | Rendah |
+| **3 – Pelanggan Royal** | Pembeli VIP dengan nilai tinggi | Aktif | Tinggi | Sangat tinggi |
 
 ### 🔹 Performa Cluster
 - **Cluster 3**: Profit & sales tertinggi, pelanggan premium.
